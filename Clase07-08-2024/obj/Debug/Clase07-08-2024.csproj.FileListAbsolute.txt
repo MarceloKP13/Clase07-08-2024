@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Clase07-08-2024\Clase07-08-2024\obj\Debug\Clase07-08-2024.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Clase07-08-2024\Clase07-08-2024\obj\Debug\Clase07-08-2024.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Clase07-08-2024\Clase07-08-2024\bin\Debug\Clase07-08-2024.exe.config
+C:\Users\user\source\repos\Clase07-08-2024\Clase07-08-2024\bin\Debug\Clase07-08-2024.exe
+C:\Users\user\source\repos\Clase07-08-2024\Clase07-08-2024\bin\Debug\Clase07-08-2024.pdb
+C:\Users\user\source\repos\Clase07-08-2024\Clase07-08-2024\obj\Debug\Clase07-08-2024.exe
+C:\Users\user\source\repos\Clase07-08-2024\Clase07-08-2024\obj\Debug\Clase07-08-2024.pdb
